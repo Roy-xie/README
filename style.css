@@ -4,5 +4,6 @@ body{
 }
 
 h1 a:hover{
-    color: brown;
+    animation-duration: all in 5s;
+    animation-name: animate__shakeX;
 }
