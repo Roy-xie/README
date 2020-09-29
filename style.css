@@ -3,7 +3,7 @@ body{
     color: bisque;
 }
 
-h1 a:hover{
-    animation-duration: all in 5s;
-    animation-name: animate__shakeX;
+p{
+    font: bolder;
+    color: blue;
 }
